@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/applicant/apply/page": "app/applicant/apply/page.js",
+  "/applicant/onboard/page": "app/applicant/onboard/page.js",
+  "/applicant/page": "app/applicant/page.js",
+  "/applicant/onboardchecking/page": "app/applicant/onboardchecking/page.js",
+  "/applicant/tes/page": "app/applicant/tes/page.js",
+  "/onboardchecking/onboard/[id]/[idPelaut]/[nik]/page": "app/onboardchecking/onboard/[id]/[idPelaut]/[nik]/page.js",
+  "/apply/page": "app/apply/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/onboardchecking/page": "app/onboardchecking/page.js",
+  "/onboardchecking/onboard/[id]/page": "app/onboardchecking/onboard/[id]/page.js",
+  "/tes/page": "app/tes/page.js",
+  "/page": "app/page.js"
+}
